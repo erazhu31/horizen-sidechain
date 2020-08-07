@@ -1,4 +1,4 @@
-# horizen-sidechain
+# Horizen-SideChain
 
 MC and SC workflow example
 
